@@ -2,7 +2,7 @@ CSCI-E15 - PROJECT 2
 
 *********LIVE URL***********
 
-http://p1.harvard-cscie15.me/P2/
+http://p1.harvard-cscie15.me/Project2/
 
 *********DESCRIPTION********
 
