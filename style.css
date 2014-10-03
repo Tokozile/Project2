@@ -16,11 +16,12 @@
 }
 
 .echo{
-		border: none;
+		
     background-color:#aed57c; text-align:center;
     padding: 15px 15px;
-    border-radius: 5px;
-    width: 500px;
+   /* border-radius: 5px; */
+    color:#2b2829;
+    /*border-width: 50px 20px 50px 20px;*/
 
 }
 

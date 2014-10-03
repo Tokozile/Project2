@@ -42,9 +42,12 @@ ini_set('display_errors', 1);
 <?php	echo $rand_words[$words[1]] . "-"; ?>
 <?php	echo $rand_words[$words[2]] . "-"; ?>
 <?php	echo $rand_words[$words[3]] . "-"; ?>
-<?php	echo $rand_words[$words[4]]; ?> <br><br>
+<?php	echo $rand_words[$words[4]]; ?>
 
 </div>
+
+<br>
+<br>
 
 <div>
 
